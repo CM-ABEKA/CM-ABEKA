@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on slack
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about UX
-- 📫 How to reach me: Twitter: [@AbekaChris](https://twitter.com/AbekaChris), Gmail: [cm-abeka](cmabeka2016@gmail.com)
+- 📫 How to reach me: Twitter: [@AbekaChris](https://twitter.com/AbekaChris)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Programming is fun.
 
