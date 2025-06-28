@@ -1,10 +1,11 @@
-### Hi I'm Chris 👋
+Chris Abeka
+Engineer. Systems Thinker. Builder of better realities.
 
-- 🔭 I’m currently working on AI with edge computing.
-- 🤔 I want to learn Regenerative Design for Mechanical Products.
-- 💬 Ask me about how to improve your business with the power of AI.
-- 📫 How to reach me: Twitter: [@AbekaChris](https://twitter.com/AbekaChris)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Programming is fun.
+I’m not here to play with tools. I’m here to bend them into systems that solve real problems.
+Right now, that means AI at the edge — thinking machines where latency matters and cloud isn’t fast enough.
+Also going deep into Regenerative Design, because the future should be both intelligent and sustainable.
 
+If you’re building something that needs to see, think, or respond — we might have a conversation.
 
+📬 Twitter: @AbekaChris
+⚡ I build to simplify complexity. I automate what drags. I rethink what’s stale.
